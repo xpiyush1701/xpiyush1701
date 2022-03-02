@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Piyush, a uni student studying Bachelor of Information Technology at James Cook University.
+- 👀 I’m interested in web design and development as well as programming.
+- 🌱 I’m currently learning programming, web designining and internet fundamentals at uni.
+- 📫 How to reach me: piyush.verma3421@gmail.com
